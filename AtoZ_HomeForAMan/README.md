@@ -41,6 +41,11 @@ removed during cleanup. They are not needed by this web app.
 - [Firebase Hosting deployment steps](<BUBUDUDU Finance/Firebase Hosting.md>)
 - [Other hosting options and costs](<BUBUDUDU Finance/DEPLOY.md>)
 
+## Live Firebase deployment
+
+- [Open the web app](https://bubududu-finance-e9f5c.web.app/#dashboard)
+- [Manage the Firebase Hosting site](https://console.firebase.google.com/project/bubududu-finance-e9f5c/hosting/sites/bubududu-finance-e9f5c)
+
 ## Run and test locally (Windows)
 
 From this directory, using an installed Python 3 interpreter:
